@@ -12,7 +12,7 @@
 <div align="center">
   <img src="/profile/stats.svg" alt="stats graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michal-luczak&layout=compact&theme=dark&hide_border=true" height="121"/> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michal-luczak&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=woochuck-dev&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=michal-luczak&theme=github-compact&hide_border=true&area=true" alt="GitHub Streak" />
 </div>
 
