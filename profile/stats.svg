@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Micha&#322; &#321;uczak's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  : 2100, Total PRs: 398, Total Issues: 153, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  : 2141, Total PRs: 419, Total Issues: 160, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.77286486739374;
+        stroke-dashoffset: 91.38224324639339;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >398</text>
+      >419</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >153</text>
+      >160</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
